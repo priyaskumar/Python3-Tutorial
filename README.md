@@ -3,7 +3,7 @@
 Learning fundamentals of  python3 - notes
 ## Contents 
 
-[✔ Basics]
+[✔ Basics](https://github.com/priyaskumar/Python3-Tutorial/tree/main/1.%20Basics#basics-of-python)
 
 [✔ Making decisions]
 
