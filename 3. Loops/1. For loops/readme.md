@@ -24,9 +24,9 @@ i is 4
 
 
 NOTE :
-> range(10) : generates a sequence of numbers from 0 to 9.  
-range(2,10) : generates a sequence of numbers from 2 to 9.
-range(2,10,2) : generates a sequence of numbers from 2 to 8 with step size = 2. i.e., [2,4,6,8]
+> - range(10) : generates a sequence of numbers from 0 to 9.  
+> - range(2,10) : generates a sequence of numbers from 2 to 9.  
+> - range(2,10,2) : generates a sequence of numbers from 2 to 8 with step size = 2. i.e., [2,4,6,8]
 
 
 To iterate through a sequence and break when a certain item is encountered, if conditional statement is used.
