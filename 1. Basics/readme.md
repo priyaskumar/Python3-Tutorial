@@ -6,12 +6,10 @@ _Basics of Python_
 
 ✔ [Print Function](https://github.com/priyaskumar/Python3-Tutorial/tree/main/1.%20Basics/1.%20Print%20function#function)
 
-✔ [Literals]
+✔ [Literals](https://github.com/priyaskumar/Python3-Tutorial/tree/main/1.%20Basics/2.%20Literals#literals)
 
-✔ [Operators]
+✔ [Operators](https://github.com/priyaskumar/Python3-Tutorial/tree/main/1.%20Basics/3.%20Operators#operators)
 
-✔ [Variables]
+✔ [Input](https://github.com/priyaskumar/Python3-Tutorial/tree/main/1.%20Basics/4.%20Input#input-function)
 
-✔ [Input]
-
-✔ [String Methods]
+✔ [String Methods](https://github.com/priyaskumar/Python3-Tutorial/tree/main/1.%20Basics/5.%20String%20methods#string-methods)
