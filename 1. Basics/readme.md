@@ -12,8 +12,6 @@ _Basics of Python_
 
 ✔ [Variables]
 
-✔ [Comments]
-
 ✔ [Input]
 
 ✔ [String Methods]
