@@ -9,7 +9,7 @@ Learning fundamentals of  python3 - notes
 
 [✔ Loops](https://github.com/priyaskumar/Python3-Tutorial/tree/main/3.%20Loops#looping-statements)
 
-[✔ Logic and bit operations]
+[✔ Logic and bit operations](https://github.com/priyaskumar/Python3-Tutorial/blob/main/4.%20Logic%20and%20Bit%20Operations/README.md#logic-and-bit-operations)
 
 [✔ Lists ]
 
