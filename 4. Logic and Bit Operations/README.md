@@ -3,6 +3,6 @@ _Logic and Bit Operations_
 
 ### _Contents_
 
-✔ [Operators](https://github.com/priyaskumar/Python3-Tutorial/tree/main/3.%20Loops/1.%20For%20loops#for-loops)
+✔ [Operators](https://github.com/priyaskumar/Python3-Tutorial/tree/main/4.%20Logic%20and%20Bit%20Operations/1.%20Operators#operators)
 
-✔ [Bitwise Operators](https://github.com/priyaskumar/Python3-Tutorial/tree/main/3.%20Loops/2.%20While%20loops#while-loops)
+✔ [Bitwise Operators](https://github.com/priyaskumar/Python3-Tutorial/tree/main/4.%20Logic%20and%20Bit%20Operations/2.%20Bitwise%20Operators#bitwise-operators)
