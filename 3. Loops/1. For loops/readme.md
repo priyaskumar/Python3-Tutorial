@@ -45,7 +45,7 @@ OUTPUT:
 i is 1  
 i is 2  
 
-To interate through a sequence and skip a particular item, if condition along with **continue** is used
+To iterate through a sequence and skip a particular item, if condition along with **continue** is used
 
 Example:
 ```python
