@@ -14,6 +14,7 @@ Example:
 i = 1
 while(i<5):
     print("i is", i)
+    i+=1
 ```
 
 OUTPUT:
@@ -38,6 +39,7 @@ Example:
 i = 0
 while(i<5)
     print("i is",i)
+    i+=1
 else:
     print("Hello world!")
 ```
