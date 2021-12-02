@@ -13,7 +13,7 @@ Learning fundamentals of  python3 - notes
 
 [✔ Lists ](https://github.com/priyaskumar/Python3-Tutorial/blob/main/5.%20Lists/README.md#lists)
 
-[✔ Functions]
+[✔ Functions](https://github.com/priyaskumar/Python3-Tutorial/tree/main/6.%20Functions#functions)
 
 [✔ Dictionaries]
 
