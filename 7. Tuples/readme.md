@@ -3,7 +3,7 @@ _Tuples_
 
 Tuple is a collection of items which are ordered, unchangeable, and allow duplicate values.
 
-### _Creating a tuple_
+## _Creating a tuple_
 
 Syntax:
 ```python
@@ -25,7 +25,7 @@ OUTPUT:
 >("apple", "mango", "cherry")  
 >("Ducati","RE","Kawasaki")
 
-### _Accessing item in tuples_:
+## _Accessing item in tuples_:
 
 - You can access tuple items by referring to the index number, inside square brackets.
 
@@ -48,7 +48,7 @@ OUTPUT:
 >Kawasaki  
 >RE
 
-### _Slicing in tuples_:
+## _Slicing in tuples_:
 
 - You can slice a tuple by specifying where to start and where to end the range.
 
@@ -64,7 +64,7 @@ print(bike[1:3])
 OUTPUT:
 >("RE","Kawasaki","KTM")
 
-### _Updating items in tuple_:
+## _Updating items in tuple_:
 
 - Tuples are unchangeable, meaning that you cannot change, add, or remove items once the tuple is created.
 
