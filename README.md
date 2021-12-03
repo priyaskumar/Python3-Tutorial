@@ -15,11 +15,11 @@ Learning fundamentals of  python3 - notes
 
 [✔ Functions](https://github.com/priyaskumar/Python3-Tutorial/tree/main/6.%20Functions#functions)
 
-[✔ Tuples]
+[✔ Tuples](https://github.com/priyaskumar/Python3-Tutorial/tree/main/7.%20Tuples#tuples)
 
-[✔ Dictionaries]
+[✔ Dictionaries](https://github.com/priyaskumar/Python3-Tutorial/tree/main/8.%20Dictionaries#dictionaries)
 
-[✔ Python Internals and Modules]
+[✔ Python Internals and Modules](https://github.com/priyaskumar/Python3-Tutorial/tree/main/9.%20Python%20Internals%20and%20Modules#python-internals-and-modules)
 
 
  
