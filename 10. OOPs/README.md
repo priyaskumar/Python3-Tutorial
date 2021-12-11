@@ -3,7 +3,7 @@ _OOPs in Python_
 
 ### _Contents_
 
-✔ [Classes and Object](https://github.com/priyaskumar/Python3-Tutorial/tree/main/9.%20Python%20Internals%20and%20Modules/1.%20Python%20Internals#python-internals)
+✔ [Classes and Object](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/01.%20Classes%20and%20Objects#oops)
 
 ✔ [Constructors](https://github.com/priyaskumar/Python3-Tutorial/tree/main/9.%20Python%20Internals%20and%20Modules/2.%20Modules#python-modules)
 
