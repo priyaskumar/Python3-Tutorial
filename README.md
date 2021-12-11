@@ -3,23 +3,26 @@
 Learning fundamentals of  python3 - notes
 ## Contents 
 
-[✔ Basics](https://github.com/priyaskumar/Python3-Tutorial/tree/main/1.%20Basics#basics-of-python)
+[✔ Basics](https://github.com/priyaskumar/Python3-Tutorial/tree/main/01.%20Basics#basics-of-python)
 
-[✔ Making decisions](https://github.com/priyaskumar/Python3-Tutorial/tree/main/2.%20Making%20decisions#making-decisions)
+[✔ Making decisions](https://github.com/priyaskumar/Python3-Tutorial/tree/main/02.%20Making%20decisions#making-decisions)
 
-[✔ Loops](https://github.com/priyaskumar/Python3-Tutorial/tree/main/3.%20Loops#looping-statements)
+[✔ Loops](https://github.com/priyaskumar/Python3-Tutorial/tree/main/03.%20Loops#looping-statements)
 
-[✔ Logic and bit operations](https://github.com/priyaskumar/Python3-Tutorial/blob/main/4.%20Logic%20and%20Bit%20Operations/README.md#logic-and-bit-operations)
+[✔ Logic and bit operations](https://github.com/priyaskumar/Python3-Tutorial/tree/main/04.%20Logic%20and%20Bit%20Operations#logic-and-bit-operations)
 
-[✔ Lists ](https://github.com/priyaskumar/Python3-Tutorial/blob/main/5.%20Lists/README.md#lists)
+[✔ Lists ](https://github.com/priyaskumar/Python3-Tutorial/tree/main/05.%20Lists#lists)
 
-[✔ Functions](https://github.com/priyaskumar/Python3-Tutorial/tree/main/6.%20Functions#functions)
+[✔ Functions](https://github.com/priyaskumar/Python3-Tutorial/tree/main/06.%20Functions#functions)
 
-[✔ Tuples](https://github.com/priyaskumar/Python3-Tutorial/tree/main/7.%20Tuples#tuples)
+[✔ Tuples](https://github.com/priyaskumar/Python3-Tutorial/tree/main/07.%20Tuples#tuples)
 
-[✔ Dictionaries](https://github.com/priyaskumar/Python3-Tutorial/tree/main/8.%20Dictionaries#dictionaries)
+[✔ Dictionaries](https://github.com/priyaskumar/Python3-Tutorial/tree/main/08.%20Dictionaries#dictionaries)
 
-[✔ Python Internals and Modules](https://github.com/priyaskumar/Python3-Tutorial/tree/main/9.%20Python%20Internals%20and%20Modules#python-internals-and-modules)
+[✔ Python Internals and Modules](https://github.com/priyaskumar/Python3-Tutorial/tree/main/09.%20Python%20Internals%20and%20Modules#python-internals-and-modules)
+
+[✔ OOPS](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs#oops-in-python)
+
 
 
  
