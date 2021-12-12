@@ -17,5 +17,4 @@ _OOPs in Python_
 
 ✔ [OOPs Principles](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/07.%20OOPs%20Principles#oops-principles)
 
-✔ [Code Organization](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/08.%20Code%20Organization#code-organization)
 

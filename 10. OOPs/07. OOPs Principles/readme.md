@@ -37,6 +37,10 @@ You don't allow direct access to the attributes, but you can create methods insi
 
 - Modularity can be visualized as a way of mapping encapsulated abstractions into real, physical modules having high cohesion within the modules.
 
+- For an instance, As your project grows, you need to work with multiple files, to have everything clean and organized.
+
+    So, you will have to create a seperate file for each class and have a main file where you import all the classes and create instances of it.
+
 ## _Inheritance_
 
 - Inheritance is the concept of inheriting the properties and characteristics of one to the another.
