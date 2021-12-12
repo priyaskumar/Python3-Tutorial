@@ -15,7 +15,7 @@ _OOPs in Python_
 
 ✔ [Getters and Setters](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/06.%20Getters%20and%20setters#getters-and-setters)
 
-✔ [OOPs Principles](https://github.com/priyaskumar/Python3-Tutorial/tree/main/9.%20Python%20Internals%20and%20Modules/2.%20Modules#python-modules)
+✔ [OOPs Principles](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/07.%20OOPs%20Principles#oops-principles)
 
-✔ [Code Organization](https://github.com/priyaskumar/Python3-Tutorial/tree/main/9.%20Python%20Internals%20and%20Modules/2.%20Modules#python-modules)
+✔ [Code Organization](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/08.%20Code%20Organization#code-organization)
 
