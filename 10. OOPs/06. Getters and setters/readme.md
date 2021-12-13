@@ -3,7 +3,7 @@ _Getters and Setters_
 
 - If you want to restrict your users to change the value of an attribute, once it has been initalized you gotto create a read-only attributes.
 
-- Read-only attributes are created using teh decorator : `@property` in python.
+- Read-only attributes are created using the decorator : `@property` in python.
 
 - You can also set values to read-only attributes. Again, you do it with the help of a decorator : `@_YourAttribute_.setter`.
 
