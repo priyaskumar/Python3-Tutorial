@@ -19,9 +19,11 @@ Learning fundamentals of  python3 - notes
 
 [✔ Dictionaries](https://github.com/priyaskumar/Python3-Tutorial/tree/main/08.%20Dictionaries#dictionaries)
 
-[✔ Python Internals and Modules](https://github.com/priyaskumar/Python3-Tutorial/tree/main/09.%20Python%20Internals%20and%20Modules#python-internals-and-modules)
+[✔ Python Internals](https://github.com/priyaskumar/Python3-Tutorial/tree/main/09.%20Python%20Internals#python-internals)
 
 [✔ OOPS](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs#oops-in-python)
+
+[✔ Python Modules](https://github.com/priyaskumar/Python3-Tutorial/tree/main/11.%20Python%20Modules#python-modules)
 
 
 
