@@ -25,6 +25,9 @@ Learning fundamentals of  python3 - notes
 
 [✔ Python Modules](https://github.com/priyaskumar/Python3-Tutorial/tree/main/11.%20Python%20Modules#python-modules)
 
+[✔ Python Package Installer](https://github.com/priyaskumar/Python3-Tutorial/tree/main/12.%20Python%20Package%20Installer#python-package-installer)
 
+[✔ Strings](https://github.com/priyaskumar/Python3-Tutorial/tree/main/13.%20Strings#strings)
 
- 
+[✔ Exceptions](https://github.com/priyaskumar/Python3-Tutorial/tree/main/14.%20Exceptions#exceptions)
+
