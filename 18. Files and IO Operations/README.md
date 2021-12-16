@@ -7,7 +7,7 @@ _Files and I/O Operations_
 
 ## _Actions performed in Stream_ :
 
-- **open** : connects to a stream in order to open a file in 
+- **open** : connects to a stream in order to open a file in   
     (for text files)
     - read mode (r), 
     - write mode (w), 
