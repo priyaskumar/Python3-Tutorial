@@ -3,7 +3,7 @@ _OOPs in Python_
 
 ### _Contents_
 
-✔ [Procedural vs OOP Approach](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/01.%20Procedural%20vs%20OOP%20Approach#procedural-approach)
+✔ [Procedural vs OOP Approach](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/01.%20Procedural%20vs%20OOP%20approach#procedural-approach)
 
 ✔ [Classes and Object](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/02.%20Classes%20and%20Objects#oops)
 
@@ -21,7 +21,7 @@ _OOPs in Python_
 
 ✔ [OOPs Properties](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/09.%20OOPs%20Properties#instance-variable)
 
-✔ [OOPs Methods](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/10.%20OOPs%20Principles#oops-methods)
+✔ [OOPs Methods](https://github.com/priyaskumar/Python3-Tutorial/tree/main/10.%20OOPs/10.%20OOPs%20Methods#oops-methods)
 
 
 
