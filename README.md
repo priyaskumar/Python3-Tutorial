@@ -31,3 +31,10 @@ Learning fundamentals of  python3 - notes
 
 [✔ Exceptions](https://github.com/priyaskumar/Python3-Tutorial/tree/main/14.%20Exceptions#exceptions)
 
+[✔ Generators](https://github.com/priyaskumar/Python3-Tutorial/tree/main/15.%20Generators#generators)
+
+[✔ List Comprehensions](https://github.com/priyaskumar/Python3-Tutorial/tree/main/16.%20List%20Comprehensions#list-comprehensions)
+
+[✔ Lambda and Closures](https://github.com/priyaskumar/Python3-Tutorial/tree/main/17.%20Lambda%20and%20Closures#lambda-and-closures)
+
+[✔ Files and IO Operations](https://github.com/priyaskumar/Python3-Tutorial/tree/main/18.%20Files%20and%20IO%20Operations#files-and-io-operations)
